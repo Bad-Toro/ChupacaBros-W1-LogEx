@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LogEx</string>
+    <string name="action_settings">Configuracion</string>
+    <string name="pushme">Presioname</string>
+    <string name="sec_btn">Segundo</string>
+    <string name="second_button">Segundo</string>
+    <string name="thetestone">Te lo dije!</string>
+    <string name="toro">Bull</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LogEx</string>
+    <string name="action_settings">Settings</string>
+    <string name="pushme">Push Me</string>
+    <string name="second_button">Second Button</string>
+    <string name="sec_btn">Sec Btn</string>
+    <string name="toro">Toro</string>
+    <string name="thetestone">Told You</string>
+</resources>
